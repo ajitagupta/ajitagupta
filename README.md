@@ -3,7 +3,7 @@
 This is my GitHub portfolio. I use it to showcase my skills on client projects. This includes various industries, amongst others insurance or tourism or even banks.
 
 Feel free to get in touch if you have a cool idea we could work on together!
-<br>
+<br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
 
 <!--
