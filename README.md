@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my GitHub portfolio. I use it to showcase my skills on client projects. This includes various industries, amongst others insurance, the government, or tourism or even banks.
+This is my GitHub portfolio. I take pride in my work and am thus using it to showcase my skills on client projects.
 
 Feel free to get in touch if you have a cool idea we could work on together!
 <br><br>
