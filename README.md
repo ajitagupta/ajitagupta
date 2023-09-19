@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 This is my GitHub portfolio. I take pride in my work and am thus using it to showcase my skills on client projects.
-
 Feel free to get in touch if you have a cool idea we could work on together!
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
