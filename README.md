@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my GitHub portfolio. I use it to showcase my skills on client projects. This includes various industries, amongst others insurance or tourism or even banks.
+
+
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
