@@ -12,7 +12,7 @@ Feel free to get in touch if you see a business opportunity for us to work on to
 More ideas up and about me:
 
 - 🔭 I last worked on an [ecommerce store](https://react-ecommerce-store-eight.vercel.app/)
-- 🌱 I’m currently learning prompt engineering
+- 🌱 I’m currently learning prompt engineering / web development
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with the UI/UX design
 - 💬 Ask me about backend programming, frontend programming, computer science, linux
