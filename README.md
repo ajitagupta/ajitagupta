@@ -13,9 +13,9 @@ More ideas up and about me:
 
 - 🔭 I last worked on an [ecommerce store](https://react-ecommerce-store-eight.vercel.app/)
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on anything software
-- 🤔 I’m looking for help with the business side of things
-- 💬 Ask me about Python, Java, backend programming
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with the UI/UX design
+- 💬 Ask me about backend programming, frontend programming, computer science, linux
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she
 - ⚡ Fun fact: I don't like pets
