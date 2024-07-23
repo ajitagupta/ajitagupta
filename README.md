@@ -11,7 +11,7 @@ Feel free to get in touch if you see a business opportunity for us to work on to
 
 More ideas up and about me:
 
-- 🔭 I’m currently working on an [ecommerce store](https://react-ecommerce-store-eight.vercel.app/)
+- 🔭 I last worked on an [ecommerce store](https://react-ecommerce-store-eight.vercel.app/)
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on anything software
 - 🤔 I’m looking for help with the business side of things
