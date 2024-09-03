@@ -11,8 +11,8 @@ Feel free to get in touch if you see a business opportunity for us to work on to
 
 More ideas up and about me:
 
-- 🔭 I last worked on an [ecommerce store](https://react-ecommerce-store-eight.vercel.app/)
-- 🌱 I’m currently learning linux&operating systems
+- 🔭 I last worked on [python games](https://github.com/ajitagupta/games-in-python
+- 🌱 I’m currently learning game development in python
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with the UI/UX design
 - 💬 Ask me about backend programming, frontend programming, computer science, linux
