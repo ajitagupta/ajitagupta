@@ -16,7 +16,7 @@ More ideas up and about me:
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with the UI/UX design
-- 💬 Ask me about backend programming, frontend programming, computer science, linux
+- 💬 Ask me about Java, full-stack, computer science, linux
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love to play
