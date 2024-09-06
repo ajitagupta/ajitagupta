@@ -18,5 +18,5 @@ More ideas up and about me:
 - 💬 Ask me about backend programming, frontend programming, computer science, linux
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she
-- ⚡ Fun fact: I don't like pets
+- ⚡ Fun fact: I love to play
 
