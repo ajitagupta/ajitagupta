@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ajita Gupta, a vocational instructor and software engineer with a passion for teaching application development and building robust software solutions. With over 5 years of experience in Java, Python, SQL, and web development, I train young adults in their programming journey, while constantly honing my own skills through various self-learning projects and bootcamps.
+I’m Ajita Gupta, a vocational instructor and software engineer with a passion for teaching application development and building robust software solutions. With over 3 years of experience in Java, Python, SQL, and web development, I train young adults in their programming journey, while constantly honing my own skills through various self-learning projects and bootcamps.
 <br/><br/>
 This GitHub portfolio showcases my work across diverse projects, ranging from real-time stock market data streaming to student management systems. Each project reflects my dedication to writing clean, efficient code, whether it’s part of my teaching role or personal learning.
 <br><br>
