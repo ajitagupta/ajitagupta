@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a vocational instructor in application development where I introduce young adults to their first steps in programming.
+I am a vocational instructor in application development where I introduce young adults to their first steps in programming.<br/><br/>
 This is my GitHub portfolio. I take pride in my work and am thus using it to showcase my projects.
 Feel free to get in touch if you see a business opportunity for us to work on together!
 <br><br>
