@@ -4,7 +4,7 @@ I’m Ajita Gupta, a vocational instructor and software engineer with a passion 
 <br/><br/>
 This GitHub portfolio showcases my work across diverse projects, ranging from real-time stock market data streaming to student management systems. Each project reflects my dedication to writing clean, efficient code, whether it’s part of my teaching role or personal learning.
 <br><br>
-I believe in continuous growth, and I’m always open to exploring new collaborations or business opportunities. Feel free to connect!
+Let's connect and collaborate! Explore more of my work here, or reach out if you’re interested in discussing technology, coding, or potential projects.
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
 
