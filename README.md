@@ -14,8 +14,8 @@ Let's connect and collaborate! Explore more of my work here, or reach out if you
 
 More ideas up and about me:
 
-- 🔭 I last wrote some [python games](https://github.com/ajitagupta/games-in-python)
-- 🌱 I’m currently learning pygame
+- 🔭 I last wrote a [tkinter dashboard](https://github.com/ajitagupta/tkinter-dashboard)
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with the UI/UX design
 - 💬 Ask me about Java, full-stack, computer science, linux
