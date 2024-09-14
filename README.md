@@ -15,10 +15,10 @@ Let's connect and collaborate! Explore more of my work here, or reach out if you
 More ideas up and about me:
 
 - 🔭 I last wrote a [streamlit dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning azure, c#, .net
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with the UI/UX design
-- 💬 Ask me about Java, full-stack, computer science, linux
+- 💬 Ask me about Java, python, full-stack, computer science, linux
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she
 - ⚡ Fun fact: I love to play
