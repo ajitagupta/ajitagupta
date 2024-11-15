@@ -4,18 +4,18 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 <br><br>
 **Featured Projets**
 <br>
-- [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system): A dynamic tool for volunteer coordination, featuring role-based dashboards, feedback collection, and task management.<br>
+- [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system): A dynamic tool for volunteer coordination, featuring role-based dashboards, feedback collection, and task management.
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery): An elegant and interactive showcase of art pieces, built with Angular.
-- [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard):A data visualization app tracking risks, attacks, and financial losses, hosted on Streamlit.<br>
-- [Hotel EV Charging Stations](https://github.com/ajitagupta/hotel-charging-stations): A booking site leveraging API data to integrate electric vehicle charging with hotel stays.<br>
+- [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard):A data visualization app tracking risks, attacks, and financial losses, hosted on Streamlit.
+- [Hotel EV Charging Stations](https://github.com/ajitagupta/hotel-charging-stations): A booking site leveraging API data to integrate electric vehicle charging with hotel stays.
 <br><br>
 **Skills and Interests**
 <br>
-- **Programming Languages**: Java, C#, Python<br>
-- **Frontend**: Angular, React<br>
-- **Backend**: Spring Boot<br>
-- **Tools**: Streamlit, Azure, Git<br>
-- **Domains**: Healthcare, Banking Systems, and Data Visualization<br>
+- **Programming Languages**: Java, C#, Python
+- **Frontend**: Angular, React
+- **Backend**: Spring Boot
+- **Tools**: Streamlit, Azure, Git
+- **Domains**: Healthcare, Banking Systems, and Data Visualization
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
