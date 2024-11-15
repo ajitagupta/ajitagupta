@@ -8,6 +8,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery): An elegant and interactive showcase of art pieces, built with Angular.
 - [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard):A data visualization app tracking risks, attacks, and financial losses, hosted on Streamlit.<br>
 - [Hotel EV Charging Stations](https://github.com/ajitagupta/hotel-charging-stations): A booking site leveraging API data to integrate electric vehicle charging with hotel stays.<br>
+<br><br>
 **Skills and Interests**
 <br>
 - **Programming Languages**: Java, C#, Python<br>
