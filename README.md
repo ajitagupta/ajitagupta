@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I am a versatile software engineer with a strong foundation in Java, C#, and modern web development frameworks like Angular and React. My portfolio reflects my diverse expertise across backend systems, UI/UX development, and data-driven applications. I bring a unique blend of technical depth and practical problem-solving, drawn from my experience in industries like healthcare, finance, and administration.
+Welcome to my GitHub! I am a versatile software engineer with a strong foundation in Java, C#, Python, and modern web development frameworks like Angular and React. My portfolio reflects my diverse expertise across backend systems, UI/UX development, and data-driven applications. I bring a unique blend of technical depth and practical problem-solving, drawn from my experience in industries like healthcare, finance, and administration.
 <br><br>
 **Featured Projets**
 <br>
