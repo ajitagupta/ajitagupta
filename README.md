@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I am a versatile software engineer with a strong foundation in Java, C#, Python, and modern web development frameworks like Angular and React. My portfolio reflects my diverse expertise across backend systems, UI/UX development, and data-driven applications. I bring a unique blend of technical depth and practical problem-solving, drawn from my experience in industries like healthcare, finance, and administration.
 <br><br>
-**Featured Projets**
+**Featured Projects**
 <br>
 - [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system): A dynamic tool for volunteer coordination, featuring role-based dashboards, feedback collection, and task management.
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery): An elegant and interactive showcase of art pieces, built with Angular.
