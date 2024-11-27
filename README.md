@@ -13,7 +13,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 <br>
 - **Programming Languages**: Java, C#, Python
 - **Frontend**: Angular, React
-- **Backend**: Spring Boot
+- **Backend**: Spring Boot, NodeJS
 - **Tools**: Streamlit, Azure, Git
 - **Domains**: Healthcare, Banking Systems, and Data Visualization
 
