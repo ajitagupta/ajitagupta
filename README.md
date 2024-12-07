@@ -12,7 +12,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 
 **Skills and Interests**
 <br>
-- **Programming Languages**: Java, C#, Python
+- **Programming Languages**: Java, C#, Python, SQL
 - **Frontend**: Angular, React
 - **Backend**: Spring Boot, Node.js
 - **Tools**: Streamlit, Azure, Git, Power BI
