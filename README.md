@@ -5,10 +5,10 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 **Featured Projects**
 <br>
 
-- [Text Sentiment Classifier](https://github.com/ajitagupta/textsentimentclassifier): A Python-based sentiment analysis model leveraging logistic regression and TF-IDF to classify movie reviews as positive or negative.
-- [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system): A dynamic tool for volunteer coordination, featuring role-based dashboards, feedback collection, and task management.
-- [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery): An elegant and interactive showcase of art pieces, built with Angular.
-- [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard): A data visualization app tracking risks, attacks, and financial losses, hosted on Streamlit.
+- [Text Sentiment Classifier](https://github.com/ajitagupta/textsentimentclassifier)
+- [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system)
+- [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
+- [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 
 **Skills and Interests**
 <br>
