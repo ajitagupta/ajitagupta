@@ -17,6 +17,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 - **Backend**: Spring Boot, Node.js
 - **Tools**: Streamlit, Azure, Git, Power BI
 - **Domains**: Healthcare, Banking Systems, Machine Learning, and Business Intelligence
+- **Operating Systems**: Linux/Unix, Windows
 
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
