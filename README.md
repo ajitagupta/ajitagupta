@@ -18,7 +18,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 - **Backend**: Spring Boot, Node.js
 - **Tools**: Streamlit, Azure, Git, Power BI
 - **Operating Systems**: Linux/Unix, Windows
-- **Others**: Data Structures & Algorithms, Design Patterns, Problem-Solving, Technical Documentations, Testing
+- **Others**: Data Structures & Algorithms, OOP, Design Patterns, Problem-Solving, Technical Documentations, Testing, Machine Learning
 
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
