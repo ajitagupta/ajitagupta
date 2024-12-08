@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 - **Tools**: Streamlit, Azure, Git, Power BI
 - **Domains**: Telecommunications, Healthcare, Banking Systems, Machine Learning, and Business Intelligence
 - **Operating Systems**: Linux/Unix, Windows
-- **Others**: Data Structures & Algorithms, Design Patterns, Problem-solving, Technical Documentations, Testing
+- **Others**: Data Structures & Algorithms, Design Patterns, Problem-Solving, Technical Documentations, Testing
 
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
