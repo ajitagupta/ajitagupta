@@ -5,6 +5,7 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 **Featured Projects**
 <br>
 
+- [Retail Sales Dashboard](https://github.com/ajitagupta/RetailSalesDashboard)
 - [Text Sentiment Classifier](https://github.com/ajitagupta/textsentimentclassifier)
 - [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system)
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
