@@ -23,6 +23,8 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajita-gupta)
+
 
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
