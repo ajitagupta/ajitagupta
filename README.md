@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I am a versatile software engineer with a strong foundation in Java, C#, Python, and modern web development frameworks like Angular and React. My portfolio reflects my diverse expertise across backend systems, UI/UX development, and data-driven applications. I bring a unique blend of technical depth and practical problem-solving, drawn from my experience in industries like telecom, healthcare, finance, education, and administration.
+Welcome to my GitHub! I am a versatile software engineer with a strong foundation in Java, C#, Python, and modern web development frameworks like Angular and React. My portfolio reflects my diverse expertise across backend systems, UI/UX development, and data-driven applications. I bring a unique blend of technical depth and practical problem-solving.
+<br>
+With a career enriched by experience across telecom, healthcare, finance, education, and administration, I bring a well-rounded perspective to every project I undertake.
 <br><br>
-**Featured Projects**
+🚀 **Featured Projects**
 <br>
 
 - [Retail Sales Dashboard](https://github.com/ajitagupta/RetailSalesDashboard)
@@ -11,12 +13,14 @@ Welcome to my GitHub! I am a versatile software engineer with a strong foundatio
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
 - [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 
-**Skills and Interests**
+🛠️ **Skills and Interests**
 <br>
 - **Programming Languages**: Java, C#, Python, SQL
 - **Frontend**: Angular, React
 - **Backend**: Spring Boot, Node.js
-- **Tools**: Streamlit, Azure, Git, Power BI, Jira, Confluence
+- **Cloud/DevOps**: Azure, Git
+- **Data & Visualization**: Power BI, Streamlit
+- **Tools**: Jira, Confluence
 - **Operating Systems**: Linux/Unix, Windows
 - **Others**: Design, Sales, Storytelling
 
