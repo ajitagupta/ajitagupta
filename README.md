@@ -1,7 +1,5 @@
 ### Hoi 👋
 
-Welcome to my GitHub!
-<br>
 I am Ajita Gupta, a tech enthusiast from Zurich.
 <br><br>
 🚀 **Featured Projects**
