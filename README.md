@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Welcome to my GitHub!
-<br>
+<br><br>
 I am Ajita Gupta, a versatile software engineer with expertise spanning Java, C#, Python, and modern web frameworks like Angular and React. My work bridges backend systems, intuitive UI/UX, and data-centric applications, reflecting a unique mix of technical proficiency and creative problem-solving.
-<br>
+<br><br>
 With a career enriched by experience across telecom, healthcare, finance, education, and administration, I bring a well-rounded perspective to every project I undertake.
 <br><br>
 🚀 **Featured Projects**
