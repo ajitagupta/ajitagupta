@@ -8,7 +8,6 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 <br>
 
 - [Retail Sales Dashboard](https://github.com/ajitagupta/RetailSalesDashboard)
-- [Text Sentiment Classifier](https://github.com/ajitagupta/textsentimentclassifier)
 - [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system)
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
 - [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
