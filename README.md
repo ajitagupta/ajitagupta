@@ -1,6 +1,6 @@
 ### Hoi 👋
 
-I am Ajita Gupta, a tech enthusiast from Zurich. ![image width="20"](https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4)
+I am Ajita Gupta, a tech enthusiast from Zurich. ![image](https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4){width=20}
 <br><br>
 🚀 **Featured Projects**
 <br>
