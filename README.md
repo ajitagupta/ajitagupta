@@ -1,7 +1,7 @@
 ### Hoi 👋
 
+<img src="https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4" alt="Tech Enthusiast" width="50" height="50">
 I am Ajita Gupta, a tech enthusiast from Zurich.
-<img src="https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4" alt="Tech Enthusiast" width="40" height="40">
 <br><br>
 🚀 **Featured Projects**
 <br>
