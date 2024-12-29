@@ -22,7 +22,7 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 - **Tools**: Jira, Confluence
 - **Operating Systems**: Linux/Unix, Windows
 - **Distributed Systems**: System Design, Kafka, Microservices
-- **Others**: Design, Sales, Storytelling
+- **Others**: Design, Sales, Storytelling, Machine Learning
 
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
 <br><br>
