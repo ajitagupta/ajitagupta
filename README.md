@@ -21,7 +21,7 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 - **Data & Visualization**: Power BI, Streamlit
 - **Tools**: Jira, Confluence
 - **Operating Systems**: Linux/Unix, Windows
-- **Distributed Systems**: System Design, Kafka, Microservices
+- **Distributed Systems**: System Design, Kafka, Microservices, MQ
 - **Others**: Design, Sales, Storytelling, Machine Learning
 
 Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
