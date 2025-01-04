@@ -17,7 +17,7 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 - **Programming Languages**: HTML/CSS/JavaScript, Java, C#, Python, SQL, VBA
 - **Frontend**: Angular, React (Native)
 - **Backend**: Spring Boot, Node.js
-- **Cloud/DevOps**: Azure, Git
+- **Cloud/DevOps**: Azure, Git, Jenkins
 - **Data & Visualization**: Power BI, Streamlit, Splunk
 - **Tools**: Jira, Confluence
 - **Operating Systems**: Linux/Unix, Windows
