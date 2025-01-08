@@ -7,10 +7,10 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 🚀 **Featured Projects**
 <br>
 
-- [Retail Sales Dashboard](https://github.com/ajitagupta/RetailSalesDashboard)
-- [Streamlined Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system)
+- [React E-commerce Store](https://github.com/ajitagupta/react-ecommerce-store)
+- [React Volunteer Management Platform](https://github.com/ajitagupta/react-volunteer-management-system)
 - [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
-- [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+- [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 
 🛠️ **Skills and Interests**
 <br>
