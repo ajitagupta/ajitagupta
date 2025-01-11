@@ -14,9 +14,10 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 
 🛠️ **Skills and Interests**
 <br>
-- **Programming Languages**: HTML/CSS/JavaScript, TypeScript, Java, C#, Python, SQL, VBA
+- **Programming Languages**: HTML/CSS/JavaScript, TypeScript, Java, C#, Python, SQL, VBA, Genero BDL
 - **Frontend**: Angular, React (Native), Next.js
 - **Backend**: Spring Boot, Node.js, Express.js
+- **Middleware**: REST, GraphQL, Swagger/OpenAPI
 - **Databases**: Oracle DB, SQL Server, MySQL, MongoDB
 - **Cloud/DevOps**: Azure, Git, Jenkins, Vercel, Docker
 - **Data & Visualization**: Power BI, Streamlit, Splunk
