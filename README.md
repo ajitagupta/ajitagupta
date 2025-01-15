@@ -19,7 +19,7 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 - **Backend**: Spring Boot, Node.js, Express.js
 - **API's & Documentation**: REST, GraphQL, Swagger/OpenAPI
 - **Databases**: Oracle DB, SQL Server, MySQL, MongoDB
-- **Cloud/DevOps**: Azure, Git, Jenkins, Vercel, Docker
+- **Cloud/DevOps**: Azure, Git, Jenkins, Vercel
 - **Data & Visualization**: Power BI, Streamlit, Splunk
 - **Tools**: Jira, Confluence
 - **Operating Systems**: Linux/Unix, Windows
