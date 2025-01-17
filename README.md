@@ -7,9 +7,10 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 🚀 **Featured Projects**
 <br>
 
+- [Docker Hello World](https://github.com/ajitagupta/hello-docker)
 - [React Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
-- [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
 - [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+- [Angular Art Gallery](https://github.com/ajitagupta/angular-art-gallery)
 
 🛠️ **Skills and Interests**
 <br>
