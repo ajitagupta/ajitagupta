@@ -17,7 +17,7 @@ I am Ajita Gupta, a tech enthusiast from Zurich.
 - **Frontend**: Angular, React (Native), Next.js
 - **Backend**: Spring Boot, Node.js, Express.js
 - **API's & Documentation**: REST, GraphQL, Swagger/OpenAPI
-- **Databases**: Oracle DB, SQL Server, MySQL, MongoDB
+- **Databases**: Oracle DB, SQL Server, MySQL
 - **Cloud/DevOps**: Azure, Git, Jenkins, Vercel, Docker
 - **Data & Visualization**: Power BI, Streamlit, Splunk
 - **Tools**: Jira, Confluence
