@@ -1,7 +1,7 @@
 ### Hoi 👋
 
 <img src="https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4" alt="Tech Enthusiast" width="50" height="50">
-I am Ajita Gupta, a learn-addict from Zurich.
+I am Ajita Gupta, a passionate coder and perpetual learner from Zurich.
 <br><br>
 
 🚀 **Featured Projects**
@@ -26,7 +26,7 @@ I am Ajita Gupta, a learn-addict from Zurich.
 - **Distributed Systems**: System Design, Kafka, Microservices, MQ
 - **Others**: Design, Sales, Storytelling, Machine Learning
 
-Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something impactful together!
+Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something incredible together!
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajita-gupta)
