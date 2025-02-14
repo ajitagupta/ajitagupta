@@ -16,7 +16,7 @@ I am Ajita Gupta, a passionate coder and perpetual learner from Zurich.
 <br>
 - **Programming Languages**: HTML/CSS/JavaScript, TypeScript, Java, C#, Python, SQL, VBA, Genero BDL
 - **Frontend**: Angular, React (Native), Next.js
-- **Backend**: Spring Boot, Node.js, Express.js
+- **Backend**: Spring Boot, Node.js, Express.js, Flask
 - **API's & Documentation**: REST, GraphQL, Swagger/OpenAPI
 - **Databases**: Oracle DB, SQL Server, MySQL
 - **Cloud/DevOps**: Azure, Git, Jenkins, Vercel, Docker
