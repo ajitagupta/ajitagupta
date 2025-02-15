@@ -7,9 +7,9 @@ I am Ajita Gupta, a passionate coder and perpetual learner from Zurich.
 🚀 **Featured Projects**
 <br>
 
+- [ElectriStay](https://github.com/ajitagupta/hotel-charging-stations)
 - [Aviation Actuary Dashboard](https://github.com/ajitagupta/streamlit-aviation-dashboard)
 - [Docker Hello World](https://github.com/ajitagupta/hello-docker)
-- [React Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
 - [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 
 🛠️ **Skills and Interests**
