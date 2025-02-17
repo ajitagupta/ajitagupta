@@ -1,32 +1,36 @@
-### Hoi 👋
+# Hoi there! 👋 I'm Ajita Gupta
 
-<img src="https://github.com/user-attachments/assets/f3891e4a-7d5e-4ea4-ad71-2f4714aa67d4" alt="Tech Enthusiast" width="50" height="50">
-I am Ajita Gupta, a passionate coder and perpetual learner from Zurich.
-<br><br>
+🚀 **Innovative Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
-🚀 **Featured Projects**
-<br>
+Passionate about transforming complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
-- [ElectriStay](https://github.com/ajitagupta/hotel-charging-stations)
-- [Aviation Actuary Dashboard](https://github.com/ajitagupta/streamlit-aviation-dashboard)
-- [Docker Hello World](https://github.com/ajitagupta/hello-docker)
-- [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+## 🌟 Featured Projects
+- **[ElectriStay](https://github.com/ajitagupta/hotel-charging-stations)**: A cutting-edge project solving real-world challenges through innovative software design
+- **[Aviation Actuary Dashboard](https://github.com/ajitagupta/streamlit-aviation-dashboard)**: Leveraging data visualization to unlock insights in the aviation industry
+- **[Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/hello-docker)**: Bridging security and technology with intuitive data-driven interfaces
+- **[Docker Hello World](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)**: Exploring containerization and deployment strategies
 
-🛠️ **Skills and Interests**
-<br>
-- **Programming Languages**: HTML/CSS/JavaScript, TypeScript, Java, C#, Python, SQL, VBA, Genero BDL
-- **Frontend**: Angular, React (Native), Next.js
+## 💻 Tech Ecosystem
+
+### Languages & Frameworks
+- **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL
+- **Frontend**: React, Next.js, Angular, React Native
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
-- **API's & Documentation**: REST, GraphQL, Swagger/OpenAPI
-- **Databases**: Oracle DB, SQL Server, MySQL
-- **Cloud/DevOps**: Azure, Git, Jenkins, Vercel, Docker
-- **Data & Visualization**: Power BI, Streamlit, Splunk
-- **Tools**: Jira, Confluence
-- **Operating Systems**: Linux/Unix, Windows
-- **Distributed Systems**: System Design, Kafka, Microservices, MQ
-- **Others**: Design, Sales, Storytelling, Machine Learning
 
-Feel free to explore my repositories, share feedback, or collaborate on projects. Let's build something incredible together!
+### Tech Toolkit
+- **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel
+- **Databases**: Oracle, SQL Server, MySQL
+- **API Technologies**: REST, GraphQL, Swagger/OpenAPI
+- **Data & Visualization**: Power BI, Streamlit, Splunk
+
+### Advanced Domains
+- **Distributed Systems**: Microservices, Kafka, Message Queues
+- **Emerging Tech**: Machine Learning, System Design
+
+## 🌈 Beyond Code
+I'm not just a developer – I'm a storyteller who crafts technology narratives, a designer who sees beyond the code, and a collaborator who believes in the power of technology to create meaningful change.
+
+**Let's connect and build something extraordinary together! 🚀
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajita-gupta)
