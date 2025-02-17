@@ -1,4 +1,4 @@
-# Hoi there! 👋 I'm Ajita Gupta
+# Hello over there! 👋 I'm Ajita Gupta
 
 🚀 **Innovative Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
