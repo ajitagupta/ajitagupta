@@ -2,7 +2,7 @@
 
 🚀 **Innovative Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
-Passionate about transforming complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
+Passionate about morphing complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
 ## 🌟 Featured Projects
 - **[ElectriStay](https://github.com/ajitagupta/hotel-charging-stations)**: A cutting-edge project solving real-world challenges through innovative software design
