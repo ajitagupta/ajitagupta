@@ -1,6 +1,6 @@
 # Hello over there! 👋 I'm Ajita Gupta
 
-🚀 **Innovative Software Engineer | Full-Stack Developer | Tech Enthusiast**
+🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
 Passionate about morphing complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
