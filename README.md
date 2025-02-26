@@ -5,7 +5,7 @@
 Passionate about morphing complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
 ## 🌟 Featured Projects
-- [Cyclone Rish Dashboard](https://github.com/ajitagupta/cyclone-risk-dashboard): Insights on cyclone data
+- [Cyclone Risk Dashboard](https://github.com/ajitagupta/cyclone-risk-dashboard): Insights on cyclone data
 - [ElectriStay](https://github.com/ajitagupta/hotel-charging-stations): A cutting-edge project solving real-world challenges through software design
 - [Aviation Actuary Dashboard](https://github.com/ajitagupta/streamlit-aviation-dashboard): Leveraging data visualization to unearth insights in the aviation industry
 - [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/hello-docker): Bridging security and technology with intuitive data-driven interfaces
