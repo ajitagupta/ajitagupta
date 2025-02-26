@@ -8,7 +8,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - [ElectriStay](https://github.com/ajitagupta/hotel-charging-stations): A cutting-edge project solving real-world challenges through software design
 - [Aviation Actuary Dashboard](https://github.com/ajitagupta/streamlit-aviation-dashboard): Leveraging data visualization to unearth insights in the aviation industry
 - [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/hello-docker): Bridging security and technology with intuitive data-driven interfaces
-- [Docker Hello World](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard): Exploring containerization and deployment strategies
+
 
 ## 💻 Tech Ecosystem
 
