@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
-Passionate about morphing complex challenges into elegant code solutions, I'm a perpetual learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
+Passionate about morphing complex challenges into elegant code solutions, I'm a lifelong learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
 ## 🌟 Featured Projects
 - [Cyclone Risk Dashboard](https://github.com/ajitagupta/cyclone-risk-dashboard): Insights on cyclone data
