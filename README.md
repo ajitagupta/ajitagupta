@@ -28,9 +28,6 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **Distributed Systems**: Microservices, Kafka, Message Queues
 - **Emerging Tech**: Machine Learning, System Design
 
-## 🌈 Beyond Code
-I'm not just a developer – I'm a storyteller who crafts technology narratives, a designer who sees beyond the code, and a collaborator who believes in the power of technology to create meaningful change.
-
 Let's connect and build something incredible together! 🚀
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
