@@ -27,7 +27,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
 - **Emerging Tech**: Machine Learning, System Design
-- **AI Tools (for Online Businesses)**: ChatGPT (for Spreadsheets), Claude, Midjourney, Canva, Sora, HeyGen, Captions, Perplexity, Superhuman, Gamma, Suno, NotebookLM, Adobe Podcast, tl;dv
+- **AI Tools (for Online Businesses)**: ChatGPT (for Spreadsheets), Claude, Gemini Flash, Midjourney, Canva, Sora, HeyGen, Captions, Perplexity, Superhuman, Gamma, Suno, NotebookLM, Adobe Podcast, tl;dv
 
 Let's connect and build something incredible together! 🚀
 <br><br>
