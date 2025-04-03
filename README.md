@@ -6,7 +6,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ## 🌟 Featured Projects
 - [Tatiana Venegas Art Store](https://github.com/ajitagupta/tatianasgallerie): Art Store with self-made acrylic and oil paintings
-- [ElectriStay](https://github.com/ajitagupta/hotel-charging-stations): A cutting-edge project solving real-world challenges through software design
+- [ElectriStay](https://github.com/ajitagupta/testbed): A cutting-edge project solving real-world challenges through software design
 - [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/hello-docker): Bridging security and technology with intuitive data-driven interfaces
 
 
