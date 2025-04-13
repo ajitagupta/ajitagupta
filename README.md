@@ -14,7 +14,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ### Languages & Frameworks
 - **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL
-- **Frontend**: React, Next.js, Angular, React Native, TailwindCSS
+- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
 
 ### Tech Toolkit
