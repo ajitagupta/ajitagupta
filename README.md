@@ -36,6 +36,7 @@ Let's connect and build something incredible together! 🚀
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ajita-Gupta-19)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheAjitaGupta)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](https://www.goodreads.com/user/show/127390303-ajita-gupta)
+[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white](https://www.goodreads.com/user/show/127390303-ajita-gupta)
 
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
