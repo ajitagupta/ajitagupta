@@ -13,7 +13,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 ## 💻 Tech Ecosystem
 
 ### Languages & Frameworks
-- **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL
+- **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
 
