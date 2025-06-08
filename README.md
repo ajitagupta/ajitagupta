@@ -15,14 +15,14 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ### Languages & Frameworks
 - **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS
+- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS, Playwright
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, GraphQL, Swagger/OpenAPI
-- **Data & Visualization**: Power BI, Streamlit, Splunk
+- **Data & Visualization**: Power BI, Streamlit, Splunk, Figma
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
