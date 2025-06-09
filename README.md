@@ -15,8 +15,9 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ### Languages & Frameworks
 - **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS, Playwright
+- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS, Bootstrap
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
+- **Testing**: Playwright, Junit, Mockito
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel
