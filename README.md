@@ -20,7 +20,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **Testing**: Playwright, Junit, Mockito
 
 ### Tech Toolkit
-- **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel
+- **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel, Azure DevOps
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, GraphQL, Swagger/OpenAPI
 - **Data & Visualization**: Power BI, Streamlit, Splunk, Figma
