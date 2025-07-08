@@ -15,21 +15,20 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 ## 💻 Tech Ecosystem
 
 ### Languages & Frameworks
-- **Programming Languages**: TypeScript, Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Next.js, Angular, React Native, Tailwind CSS, Bootstrap
+- **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
+- **Frontend**: React, Angular, React Native
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
-- **Testing**: Playwright, Junit, Mockito
+- **Testing**: Junit, Mockito
 
 ### Tech Toolkit
-- **Cloud & DevOps**: Azure, Docker, Git, Jenkins, Vercel, Azure DevOps
+- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps
 - **Databases**: Oracle, SQL Server, MySQL
-- **API Technologies**: REST, GraphQL, Swagger/OpenAPI
-- **Data & Visualization**: Power BI, Streamlit, Splunk, Figma
+- **API Technologies**: REST, Swagger/OpenAPI
+- **Data & Visualization**: Streamlit, Splunk, Figma
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
 - **Emerging Tech**: Machine Learning, System Design
-- **AI Tools (for Online Businesses)**: ChatGPT (for Spreadsheets), Claude, Gemini Flash, Midjourney, Canva, Sora, HeyGen, Captions, Perplexity, Superhuman, Gamma, Suno, NotebookLM, Adobe Podcast, tl;dv, GitHub Copilot
 
 Let's connect and build something incredible together! 🚀
 <br><br>
