@@ -5,6 +5,7 @@
 Passionate about morphing complex challenges into elegant code solutions, I'm a lifelong learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
 
 ## 🌟 Featured Projects
+- ⚡ 🏠 🔌 🌱 [Electristay](https://electristay.vercel.app/): Innovative platform revolutionizing sustainable energy solutions for modern living
 - 🎨 🖼️ 🖌️ 🏞️ [Tatiana Venegas Art Store](https://github.com/ajitagupta/tatianasgallerie): Art Store with self-made acrylic and oil paintings
 - 🛡️ 📊 🔒 📈 [Streamlit Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard): Bridging security and technology with intuitive data-driven interfaces
 - 🌐 💬 📝 📘 [Flask Guestbook App](https://github.com/ajitagupta/flask-guestbook): A beginner-friendly multi-page Flask web app with form handling, template inheritance, and styling
