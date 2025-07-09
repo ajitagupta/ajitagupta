@@ -29,7 +29,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
-- **Emerging Tech**: Machine Learning, System Design
+- **Emerging Tech**: AI, Machine Learning, System Design
 
 Let's connect and build something incredible together! 🚀
 <br><br>
