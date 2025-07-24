@@ -20,16 +20,17 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **Frontend**: React, Angular, React Native
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
 - **Testing**: Junit, Mockito
+- **ML/AI Libraries**: PyTorch, NumPy
 
 ### Tech Toolkit
-- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps
+- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, Swagger/OpenAPI
-- **Data & Visualization**: Streamlit, Splunk, Figma
+- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
-- **Emerging Tech**: AI, Machine Learning, System Design
+- **Emerging Tech**: AI, Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, System Design
 
 Let's connect and build something incredible together! 🚀
 <br><br>
