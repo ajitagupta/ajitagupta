@@ -20,7 +20,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **Frontend**: React, Angular, React Native
 - **Backend**: Spring Boot, Node.js, Express.js, Flask
 - **Testing**: Junit, Mockito
-- **ML/AI Libraries**: PyTorch, NumPy
+- **ML/AI Libraries**: PyTorch, NumPy, Scikit-Learn
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps, Google Colab
