@@ -26,7 +26,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, Swagger/OpenAPI
-- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib
+- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
