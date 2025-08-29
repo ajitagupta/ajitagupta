@@ -18,14 +18,14 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Angular, React Native
-- **Backend**: Spring Boot, Node.js, Express.js, Flask
+- **Backend**: Spring Boot, Node.js, Express.js, Flask, FastAPI
 - **Testing**: Junit, Mockito
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL
-- **API Technologies**: REST, Swagger/OpenAPI
+- **API Technologies**: REST, Swagger/OpenAPI, FastAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas
 
 ### Advanced Domains
