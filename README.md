@@ -17,7 +17,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Angular, React Native
+- **Frontend**: React, Angular, React Native, Tailwind CSS
 - **Backend**: Spring Boot, Node.js, Express.js, Flask, FastAPI
 - **Testing**: Junit, Mockito
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
