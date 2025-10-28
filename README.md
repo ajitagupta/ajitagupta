@@ -23,7 +23,7 @@ Passionate about morphing complex challenges into elegant code solutions, I'm a 
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
 ### Tech Toolkit
-- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure DevOps, Google Colab
+- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure Repos, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, Swagger/OpenAPI, FastAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas
