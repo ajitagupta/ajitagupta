@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast**
 
-Passionate about morphing complex challenges into elegant code solutions, I'm a lifelong learner based in Zurich who breathes technology and thrives on creating impactful digital experiences. 
+Passionate about tackling complex challenges and turning them into elegant code, I'm a lifelong learner based in Zurich who breathes technology and thrives on creating full-fledged exhilarating digital experiences. 
 
 ## 🌟 2026 Projects
 Coming soon!!
