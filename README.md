@@ -21,7 +21,7 @@ Coming soon!!
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure Repos, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL
 - **API Technologies**: REST, Swagger/OpenAPI, FastAPI
-- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas
+- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
