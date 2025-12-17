@@ -13,13 +13,13 @@ Coming soon!!
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Angular, React Native, Tailwind CSS
-- **Backend**: Spring Boot, Node.js, Express.js, Flask, FastAPI
+- **Backend**: Spring Boot, Node.js, Express.js, Flask, FastAPI, Django
 - **Testing**: Junit, Mockito
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure Repos, Google Colab
-- **Databases**: Oracle, SQL Server, MySQL
+- **Databases**: Oracle, SQL Server, MySQL, SQLite
 - **API Technologies**: REST, Swagger/OpenAPI, FastAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office
 
