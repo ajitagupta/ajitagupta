@@ -1,6 +1,6 @@
 # Hello over there! 👋 I'm Ajita Gupta
 
-🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast**
+🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast | Educator**
 
 Passionate about tackling complex challenges and turning them into elegant code, I'm a lifelong learner based in Zurich who breathes technology and thrives on creating full-fledged exhilarating digital experiences. 
 
@@ -13,7 +13,7 @@ Coming soon!!
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Angular, React Native, Tailwind CSS
-- **Backend**: Spring Boot, Node.js, Express.js, Flask, FastAPI, Django
+- **Backend**: Spring Boot, Flask, FastAPI, Django
 - **Testing**: Junit, Mockito
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
