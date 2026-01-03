@@ -14,7 +14,7 @@ Coming soon!!
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Angular, React Native, Tailwind CSS
 - **Backend**: Spring Boot, Flask, FastAPI, Django
-- **Testing**: Junit, Mockito
+- **Testing**: Junit, Mockito, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
 ### Tech Toolkit
