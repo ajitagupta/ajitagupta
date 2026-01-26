@@ -22,7 +22,6 @@ Coming soon!!
 - **Databases**: Oracle, SQL Server, MySQL, SQLite
 - **API Technologies**: REST, Swagger/OpenAPI, FastAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office
-- **IDE's & Tools**: PyCharm, VSCode, Cursor, Replit, v0, Claude Code
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
