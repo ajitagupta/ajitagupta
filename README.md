@@ -12,8 +12,8 @@ Coming soon!!
 
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Angular, React Native, Tailwind CSS, Bootstrap, NextJS
-- **Backend**: Spring Boot, Flask, FastAPI, Django, NextJS
+- **Frontend**: React, NextJS, UI/UX
+- **Backend**: Spring Boot, Flask/Django
 - **Testing**: Junit, Mockito, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
