@@ -8,7 +8,7 @@ Passionate about tackling business challenges and turning them into simple code,
 ### 📦 [Book Distribution Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)<br/>
 A full-stack Django web app built for Rumi Press, a fictional book distribution company in the EdTech space. Migrates their existing spreadsheet-based workflow into a secure, web-based system with full CRUD, automated data import, and a visual expense report.<br/>
 - **Tech**: Django · SQLite · Chart.js · Bootstrap 5 · openpyxl<br/>
-📖 Part of the Build an Expense Tracker App in Django guided project on Coursera<br/>
+📖 Part of the Build an Expense Tracker App in Django project on Coursera<br/>
 
 
 ## 💻 Tech Ecosystem
