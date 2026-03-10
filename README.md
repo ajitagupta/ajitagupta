@@ -5,7 +5,10 @@
 Passionate about tackling business challenges and turning them into simple code, I'm a lifelong learner based in Zurich who thrives on technology and creating digital experiences. 
 
 ## 🌟 2026 Projects
-Coming soon!!
+📦 Book Distribution Expense Tracker
+A full-stack Django web app built for Rumi Press, a fictional book distribution company in the EdTech space. Migrates their existing spreadsheet-based workflow into a secure, web-based system with full CRUD, automated data import, and a visual expense report.
+Tech: Django · SQLite · Chart.js · Bootstrap 5 · openpyxl
+📖 Part of the Build an Expense Tracker App in Django guided project on Coursera
 
 
 ## 💻 Tech Ecosystem
