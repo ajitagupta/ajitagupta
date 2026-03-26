@@ -12,8 +12,8 @@ A full-stack Django web app built for Rumi Press, a fictional book distribution 
 
 ### ⚡ [EVoyage — EV Trip Planner](https://github.com/ajitagupta/evoyage)
 The **all-in-one EV travel planner** combining intelligent route planning, real-time charging infrastructure, EV-friendly hotel discovery, and transparent budget optimisation — built for long-distance electric vehicle travellers.
-- **Tech**: Next.js · React · TypeScript · Supabase · Mapbox · Tailwind CSS · Vercel
-ᴹⱽᴾ 3-team entrepreneurship project
+- **Tech**: Next.js · React · TypeScript · Supabase · Mapbox · Tailwind CSS · Vercel<br/>
+ᴹⱽᴾ 3-team entrepreneurship project<br/>
 
 ## 💻 Tech Ecosystem
 
