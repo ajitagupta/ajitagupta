@@ -10,7 +10,7 @@ A full-stack Django web app built for Rumi Press, a fictional book distribution 
 - **Tech**: Django · SQLite · Chart.js · Bootstrap 5 · openpyxl · Render<br/>
 📖 Part of the Build an Expense Tracker App in Django project on Coursera<br/>
 
-### ⚡ [EVoyage — EV Trip Planner](https://github.com/ajitagupta/evoyage)
+### ⚡ [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 The **all-in-one EV travel planner** combining intelligent route planning, real-time charging infrastructure, EV-friendly hotel discovery, and transparent budget optimisation — built for long-distance electric vehicle travellers.
 - **Tech**: Next.js · React · TypeScript · Supabase · Mapbox · Tailwind CSS · Vercel<br/>
 ᴹⱽᴾ 3-team entrepreneurship project<br/>
