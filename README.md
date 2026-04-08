@@ -26,7 +26,7 @@ The **all-in-one EV travel planner** combining intelligent route planning, real-
 
 ### Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel, Azure App Service & Repos, Google Colab
-- **Databases**: Oracle, SQL Server, MySQL, SQLite
+- **Databases**: Oracle, SQL Server, MySQL, SQLite, Supabase
 - **API Technologies**: REST, Swagger/OpenAPI, FastAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office
 
