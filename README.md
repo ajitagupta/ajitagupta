@@ -9,7 +9,7 @@ Passionate about tackling business challenges and turning them into simple code,
 
 ### ⚡ [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 
-### 🎭 [Emotion Detector]([https://github.com/ajitagupta/django-expense-tracker](https://github.com/ajitagupta/emotion-detector)
+### 🎭 [Emotion Detector](https://github.com/ajitagupta/emotion-detector)
 
 
 ## 💻 Tech Ecosystem
