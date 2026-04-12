@@ -5,11 +5,11 @@
 Passionate about tackling business challenges and turning them into simple code, I'm a lifelong learner based in Zurich who thrives on technology and creating digital experiences. 
 
 ## 🌟 2026 Projects
-### 📦 [Book Distribution Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)<br/>
+### 📦 [Book Distribution Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)
 
 ### ⚡ [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 
-### 🎭 [Emotion Detector]([https://github.com/ajitagupta/django-expense-tracker](https://github.com/ajitagupta/emotion-detector))
+### 🎭 [Emotion Detector]([https://github.com/ajitagupta/django-expense-tracker](https://github.com/ajitagupta/emotion-detector)
 
 
 ## 💻 Tech Ecosystem
