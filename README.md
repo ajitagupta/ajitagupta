@@ -16,7 +16,7 @@ Passionate about tackling business challenges and turning them into simple code,
 
 ### Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, NextJS, UI/UX
+- **Frontend**: React, NextJS, UI/UX, Bootstrap
 - **Backend**: Spring Boot, Flask/Django
 - **Testing**: Junit, Mockito, unittest/Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
