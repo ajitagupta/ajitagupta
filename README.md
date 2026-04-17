@@ -9,7 +9,9 @@ Passionate about tackling business challenges and turning them into simple code,
 
 ### ⚡ [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 
-### 🎭 [Emotion Detector](https://github.com/ajitagupta/emotion-detector)
+### 🎭 [Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector)
+
+### 🎓 [Online Course App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database)
 
 
 ## 💻 Tech Ecosystem
