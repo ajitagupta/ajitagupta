@@ -17,9 +17,9 @@ Passionate about tackling business challenges and turning them into simple code,
 ## 💻 Tech Ecosystem
 
 ### Languages & Frameworks
-- **Programming Languages**: Python, Java, C#, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, NextJS, UI/UX, Bootstrap
-- **Backend**: Spring Boot, Flask/Django
+- **Programming Languages**: Python, Java, C#, Lua, JavaScript, SQL, VBA, Genero
+- **Frontend**: React, NextJS, UI/UX, Bootstrap, Qt
+- **Backend**: Spring Boot, Flask/Django, .NET
 - **Testing**: Junit, Mockito, unittest/Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
