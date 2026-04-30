@@ -20,7 +20,7 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Programming Languages**: Python, Java, C#, Lua, JavaScript, SQL, VBA, Genero
 - **Frontend**: React, Next.js, UI/UX, Bootstrap, Qt
 - **Backend**: Spring Boot, Flask/Django, .NET
-- **Testing**: Junit, Mockito, unittest/Pylint, Playwright
+- **Testing**: Junit, Mockito, unittest/pytest/Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
 ### Tech Toolkit
