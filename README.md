@@ -27,7 +27,7 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Azure App Service & Repos, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
 - **API Technologies**: REST, SOAP, Swagger/OpenAPI
-- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office, SQL, VBA, Genero
+- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, SQL, VBA, Genero
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
