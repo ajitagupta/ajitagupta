@@ -17,8 +17,8 @@ Passionate about tackling business challenges and turning them into simple code,
 ## 💻 Tech Ecosystem
 
 ### Languages & Frameworks
-- **Programming Languages**: Python, Java, C#, Lua, JavaScript, SQL, VBA, Genero
-- **Frontend**: React, Next.js, UI/UX, Bootstrap, Qt
+- **Programming Languages**: Python, Java, C#, Lua, JavaScript
+- **Frontend**: React/TypeScript, Next.js, UI/UX, Qt
 - **Backend**: Spring Boot, Flask/Django, .NET
 - **Testing**: Junit, Mockito, unittest/pytest/Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
@@ -27,7 +27,7 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Azure App Service & Repos, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
 - **API Technologies**: REST, SOAP, Swagger/OpenAPI
-- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office
+- **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, MS Office, SQL, VBA, Genero
 
 ### Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues
