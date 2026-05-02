@@ -17,8 +17,8 @@ Passionate about tackling business challenges and turning them into simple code,
 ## 💻 Tech Ecosystem
 
 ### Languages & Frameworks
-- **Programming Languages**: Python, Java, C#, Lua, JavaScript
-- **Frontend**: React/TypeScript, Next.js, UI/UX, Qt
+- **Programming Languages**: Python, Java, C#, JavaScript
+- **Frontend**: React/TypeScript, Next.js, UI/UX
 - **Backend**: Spring Boot, Flask/Django, .NET
 - **Testing**: Junit, Mockito, unittest/pytest/Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
