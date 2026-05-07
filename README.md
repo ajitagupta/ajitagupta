@@ -1,6 +1,8 @@
 # Hello over there! 👋 I'm Ajita Gupta
 
-🚀 **Software Engineer | Full-Stack Developer | Tech Enthusiast | Educator**
+> *Build amazing things. Live an amazing life.*
+
+🚀 **Software Engineer | Full-Stack Developer | Educator | Creator of Der Kleine Programmierer**
 
 Passionate about tackling business challenges and turning them into simple code, I'm a lifelong learner and explorer based in Zurich with a solid baseline in software and a strong appetite to grow.
 
@@ -16,20 +18,20 @@ Passionate about tackling business challenges and turning them into simple code,
 
 ## 💻 Tech Ecosystem
 
-### Languages & Frameworks
+### 🛠️ Languages & Frameworks
 - **Programming Languages**: Python, Java, C#, JavaScript
 - **Frontend**: React/TypeScript, Next.js, UI/UX
 - **Backend**: Spring Boot, Flask/Django, .NET
 - **Testing**: Junit, Mockito, unittest/pytest, Pylint, Playwright
 - **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
 
-### Tech Toolkit
+### 🧰 Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Azure App Service & Repos, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
 - **API Technologies**: REST, SOAP, Swagger/OpenAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, SQL, VBA, Genero
 
-### Advanced Domains
+### 🔬 Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues, System Design
 - **Emerging Tech**: Generative AI, Large Language Models (LLMs), Prompt Engineering, Transformers, Hugging Face, Retrieval-Augmented Generation (RAG), Computer Vision, Natural Language Processing, Deep Learning, AI-Assisted Development
 
