@@ -30,10 +30,10 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, SQL, VBA, Genero
 
 ### Advanced Domains
-- **Distributed Systems**: Microservices, Kafka, Message Queues
-- **Emerging Tech**: AI, Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, System Design
+- **Distributed Systems**: Microservices, Kafka, Message Queues, System Design
+- **Emerging Tech**: Generative AI, Large Language Models (LLMs), Prompt Engineering, Transformers, Hugging Face, Retrieval-Augmented Generation (RAG), Computer Vision, Natural Language Processing, Deep Learning, AI-Assisted Development
 
-Let's connect and build something incredible together! 🚀
+Open to: technical writing collaborations, speaking at Swiss tech meetups, mentoring junior devs! 🚀
 <br><br>
 [![Ajita Gupta on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajita-gupta-430900109/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajita-gupta)
