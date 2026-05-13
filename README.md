@@ -2,7 +2,7 @@
 
 > *Build amazing things. Live an amazing life.*
 
-🚀 **Software Engineer | Full-Stack Developer | Educator | Creator of Der Kleine Programmierer**
+🚀 **Software Engineer | Full-Stack Developer | Technical Writer | Creator of Der Kleine Programmierer**
 
 Passionate about tackling business challenges and turning them into simple code, I'm a lifelong learner and explorer based in Zurich with a solid baseline in software and a strong appetite to grow.
 
