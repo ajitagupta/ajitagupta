@@ -23,7 +23,7 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Frontend**: React, Next.js, UI/UX
 - **Backend**: Spring Boot, Flask/Django, .NET
 - **Testing**: JUnit, Mockito, unittest/pytest, Pylint
-- **ML/AI Libraries**: PyTorch, NumPy, Scikit-learn, HuggingFace
+- **ML/AI Libraries**: PyTorch, Scikit-learn, Hugging Face
 
 ### 🧰 Tech Toolkit
 - **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Azure App Service & Repos, Google Colab
