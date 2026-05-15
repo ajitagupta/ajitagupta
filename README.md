@@ -30,7 +30,8 @@ Passionate about tackling business challenges and turning them into simple code,
 - **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
 - **API Technologies**: REST, SOAP, Swagger/OpenAPI
 - **Data & Visualization**: Streamlit, Splunk, Figma, Matplotlib, Seaborn, Pandas, SQL, VBA, Genero
-- **Automation**: Playwright, Scrapy, BeautifulSoup, requests, smtplib/imaplib, cron/schedule/Task Scheduler, Azure Functions, cProfile/line_profiler
+- **Automation**: Playwright, Scrapy, scheduled jobs (cron, Azure Functions)
+- **Performance & Concurrency**: cProfile, asyncio, threading, concurrent.futures
 
 ### 🔬 Advanced Domains
 - **Distributed Systems**: Microservices, Kafka, Message Queues, System Design
