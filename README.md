@@ -28,7 +28,7 @@ Passionate about tackling business challenges and turning them into simple code,
 - **ML/AI Libraries**: PyTorch, Scikit-learn, Hugging Face
 
 ### 🧰 Tech Toolkit
-- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Azure App Service & Repos, Google Colab
+- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render, Docker, Google Colab
 - **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
 - **API Technologies**: REST, SOAP, GraphQL, Swagger/OpenAPI
 - **Data & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit, SQL, PyArrow
