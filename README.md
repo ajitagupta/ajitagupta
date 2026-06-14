@@ -17,6 +17,8 @@ Passionate about tackling business challenges and turning them into simple code,
 
 ### 🚂 [DB vs SBB — A Punctuality Comparison](https://github.com/ajitagupta/db-vs-sbb-punctuality)
 
+### 🤖 [spaCy Chatbots — NLP in Python](https://github.com/ajitagupta/spacy-chatbots)
+
 
 ## 💻 Tech Ecosystem
 
