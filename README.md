@@ -4,7 +4,8 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Technical Writer | Creator of Der Kleine Programmierer**
 
-Passionate about tackling business challenges and turning them into simple code, I'm a lifelong learner and explorer based in Zurich with a solid baseline in software and a strong appetite to grow.
+I build Python and .NET systems that automate business processes — turning manual, error-prone work into reliable software. ETH Zurich MSc, based in Zurich, with experience across banking, government, and IoT. I also teach Swiss teens to code on YouTube as the creator of Der Kleine Programmierer, and write on Medium.
+
 
 ## 🌟 2026 Projects
 ### 📦 [Book Distribution Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)
