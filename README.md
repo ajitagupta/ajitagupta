@@ -4,7 +4,7 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Technical Writer | Creator of Der Kleine Programmierer**
 
-I build Python and .NET systems that automate business processes — turning manual, error-prone work into reliable software. ETH Zurich MSc, based in Zurich, with experience across banking, public administration, healthcare, building technology, defence, education, and startups. I also teach Swiss teens to code on YouTube as the creator of Der Kleine Programmierer, and write on Medium.
+I build Python and .NET systems that automate business processes — turning manual, error-prone work into reliable software. I am en ETH Zurich MSc, based in Zurich, with experience across banking, public administration, healthcare, building technology, defence, education, and startups. I also teach Swiss teens to code on YouTube as the creator of Der Kleine Programmierer, and write on Medium.
 
 
 ## 🌟 2026 Projects
