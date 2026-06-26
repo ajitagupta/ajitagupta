@@ -20,6 +20,8 @@ I build Python and .NET systems that automate business processes — turning man
 
 ### 🤖 [spaCy Chatbots — NLP in Python](https://github.com/ajitagupta/spacy-chatbots)
 
+### 🧪 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab)
+
 
 ## 💻 Tech Ecosystem
 
