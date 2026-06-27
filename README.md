@@ -27,24 +27,10 @@ Interactive analytics dashboard built with Python and Streamlit.
 
 ## 💻 Tech Ecosystem
 
-### 🛠️ Languages & Frameworks
-- **Programming Languages**: Python, Java, C#, JavaScript/TypeScript
-- **Frontend**: React, Next.js, UI/UX
-- **Backend**: Spring Boot, Flask/Django, .NET
-- **Testing**: JUnit, Mockito, unittest/pytest, Pylint
-- **ML/AI Libraries**: PyTorch, Scikit-learn, Hugging Face, spaCy
-
-### 🧰 Tech Toolkit
-- **Cloud & DevOps**: Azure, Git, Jenkins, Vercel/Render/PythonAnywhere, Docker, Google Colab
-- **Databases**: Oracle, SQL Server, MySQL, SQLite, PostgreSQL, Supabase
-- **API Technologies**: REST, SOAP, GraphQL, Swagger/OpenAPI
-- **Data & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit, SQL, PyArrow
-- **Automation**: Playwright, Scrapy, scheduled jobs (cron, Azure Functions)
-- **Performance & Concurrency**: cProfile, asyncio, threading, concurrent.futures
-
-### 🔬 Advanced Domains
-- **Distributed Systems**: Microservices, Kafka, Message Queues, System Design
-- **Emerging Tech**: Generative AI, Large Language Models (LLMs), Prompt Engineering, Transformers, Hugging Face, Retrieval-Augmented Generation (RAG), Computer Vision, Natural Language Processing, Deep Learning, AI-Assisted Development
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
+- **Backend**: Python, Django, Flask, Java, Spring Boot
+- **Data**: PostgreSQL, MySQL, Pandas
+- **Cloud & DevOps**: Git, Linux, Docker, Azure
 
 Open to: technical writing collaborations, speaking at Swiss tech meetups, mentoring junior devs! 🚀
 <br><br>
