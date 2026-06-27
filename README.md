@@ -2,7 +2,7 @@
 
 > *Build amazing things. Live an amazing life.*
 
-🚀 **Software Engineer | Full-Stack Developer | Technical Writer | Creator of Der Kleine Programmierer**
+🚀 **Software Engineer | Full-Stack Developer | Technical Educator**
 
 I'm a software engineer based in Zurich, Switzerland.
 <br/><br/>
