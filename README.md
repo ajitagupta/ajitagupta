@@ -8,7 +8,7 @@ I'm a software engineer based in Zurich, Switzerland.
 <br/><br/>
 I enjoy designing full-stack web applications, building practical software products, and creating educational content that helps beginners learn software engineering step by step.
 <br/><br/>
-Outside my professional work, I maintain DerKleineProgrammierer, where I publish structured programming courses in German for beginners.
+Outside my professional work, I maintain DerKleineProgrammierer, where I publish structured programming courses in German for beginners, and a Medium profile, where I regularly publish technology deep-dives.
 
 ## 🌟 Featured Projects
 
