@@ -4,23 +4,25 @@
 
 🚀 **Software Engineer | Full-Stack Developer | Technical Writer | Creator of Der Kleine Programmierer**
 
-I build Python and .NET systems that automate business processes — turning manual, error-prone work into reliable software. I am an ETH Zurich MSc, based in Zurich, with experience across banking, public administration, healthcare, building technology, defence, education, and startups. I also teach Swiss teens to code on YouTube as the creator of Der Kleine Programmierer, and write on Medium.
+I'm a software engineer based in Zurich, Switzerland.
+<br/><br/>
+I enjoy designing full-stack web applications, building practical software products, and creating educational content that helps beginners learn software engineering step by step.
+<br/><br/>
+Outside my professional work, I maintain DerKleineProgrammierer, where I publish structured programming courses in German for beginners.
 
+## 🌟 Featured Projects
 
-## 🌟 2026 Projects
-### 📦 [Book Distribution Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)
+🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
+Intelligent travel planning platform for electric vehicle drivers.
 
-### ⚡ [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
+⚡ [ElectriStay](https://github.com/ajitagupta/electristay)
+Startup helping travelers discover charging-enabled accommodation.
 
-### 🎭 [Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector)
+🤝 [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
+Modern React platform for volunteer coordination.
 
-### 🎓 [Online Course App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database)
-
-### 🚂 [DB vs SBB — A Punctuality Comparison](https://github.com/ajitagupta/db-vs-sbb-punctuality)
-
-### 🤖 [spaCy Chatbots — NLP in Python](https://github.com/ajitagupta/spacy-chatbots)
-
-### 🧪 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab)
+📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+Interactive analytics dashboard built with Python and Streamlit.
 
 
 ## 💻 Tech Ecosystem
