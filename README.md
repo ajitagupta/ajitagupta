@@ -28,7 +28,7 @@ Interactive analytics dashboard built with Python and Streamlit.
 ## 💻 Tech Ecosystem
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
-- **Backend**: Python, Django, Flask, Java, Spring Boot
+- **Backend**: Python, Django, Flask, C#, Java, Spring Boot
 - **Data**: PostgreSQL, MySQL, Pandas
 - **Cloud & DevOps**: Git, Linux, Docker, Azure
 
