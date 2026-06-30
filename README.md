@@ -22,7 +22,7 @@ Startup helping travelers discover charging-enabled accommodation [**Startup Pro
 Modern React platform for volunteer coordination [**Web Platform**]
 
 📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
-Interactive analytics dashboard built with Python and Streamlit [ **Analytics Dashboard**]
+Interactive analytics dashboard built with Python and Streamlit [**Analytics Dashboard**]
 
 ## 💻 Tech Ecosystem
 
