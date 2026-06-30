@@ -12,24 +12,24 @@ Outside my professional work, I maintain DerKleineProgrammierer, where I publish
 
 ## 🌟 Featured Projects
 
-🚗 **Full-stack SaaS** [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
-Intelligent travel planning platform for electric vehicle drivers.
+🚗 **Full-Stack SaaS**: [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
+Intelligent travel planning platform for electric vehicle drivers - Next.js, Python, Maps, APIs
 
-⚡ **Startup** [ElectriStay](https://github.com/ajitagupta/electristay)
-Startup helping travelers discover charging-enabled accommodation.
+⚡ **Startup Project**: [ElectriStay](https://github.com/ajitagupta/electristay)
+Startup helping travelers discover charging-enabled accommodation - Data, Product
 
-🤝 **Platform** [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
-Modern React platform for volunteer coordination.
+🤝 **Web Platform**: [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
+Modern React platform for volunteer coordination - React, TypeScript
 
-📊 **Dashboard** [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
-Interactive analytics dashboard built with Python and Streamlit.
+📊 **Analytics Dashboard**: [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+Interactive analytics dashboard built with Python and Streamlit - Python, Streamlit, Pandas
 
 
 ## 💻 Tech Ecosystem
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - **Backend**: Python, Django, Flask, C#, Java, Spring Boot
-- **Data**: PostgreSQL, MySQL, Pandas
+- **Data**: PostgreSQL, MySQL, Pandas, Data Visualization
 - **Cloud & DevOps**: Git, Linux, Docker, Azure
 
 Open to: technical writing collaborations, speaking at Swiss tech meetups, mentoring junior devs! 🚀
