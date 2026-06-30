@@ -12,16 +12,16 @@ Outside my professional work, I maintain DerKleineProgrammierer, where I publish
 
 ## 🌟 Featured Projects
 
-🚗 **Full-Stack SaaS**: [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
+🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/) [**Full-Stack SaaS**]
 Intelligent travel planning platform for electric vehicle drivers
 
-⚡ **Startup Project**: [ElectriStay](https://github.com/ajitagupta/electristay)
+⚡ [ElectriStay](https://github.com/ajitagupta/electristay) [**Startup Project**]
 Startup helping travelers discover charging-enabled accommodation
 
-🤝 **Web Platform**: [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
+🤝 [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system) [**Web Platform**]
 Modern React platform for volunteer coordination
 
-📊 **Analytics Dashboard**: [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
+📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard) [ **Analytics Dashboard**]
 Interactive analytics dashboard built with Python and Streamlit
 
 ## 💻 Tech Ecosystem
