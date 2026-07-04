@@ -10,7 +10,7 @@ I enjoy designing full-stack web applications, building practical software produ
 <br/><br/>
 Outside my professional work, I maintain DerKleineProgrammierer, where I publish structured programming courses in German for beginners, and a Medium profile, where I regularly publish technology deep-dives.
 
-## 🌟 Featured Projects
+## 🌟 Flagship Projects
 
 🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
