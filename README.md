@@ -2,7 +2,7 @@
 
 > *Build amazing things. Live an amazing life.*
 
-🚀 **Software Engineer | Full-Stack Developer | Technical Educator**
+🚀 **Software Engineer | Enterprise Applications | Technical Educator**
 
 I'm a software engineer based in Zurich, Switzerland.
 <br/><br/>
@@ -23,6 +23,11 @@ Modern React platform for volunteer coordination [**Web Platform**]
 
 📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 Interactive analytics dashboard built with Python and Streamlit [**Analytics Dashboard**]
+
+## 🧪 Engineering Labs
+
+🐍 [**Python Engineering Lab**](https://github.com/ajitagupta/python-engineering-lab/)
+Backend engineering fundational patterns built around one evolving workouts tracker REST API.
 
 ## 💻 Tech Ecosystem
 
