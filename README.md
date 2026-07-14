@@ -27,7 +27,7 @@ Interactive analytics dashboard built with Python and Streamlit [**Analytics Das
 ## 🧪 Engineering Curriculum
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)
-A hands-on backend engineering curriculum built around one evolving workout tracker REST API
+Building backend engineering fundamentals through one evolving workout tracker REST API
 
 ## 💻 Tech Ecosystem
 
