@@ -26,8 +26,8 @@ Interactive analytics dashboard built with Python and Streamlit [**Analytics Das
 
 ## 🧪 Engineering Labs
 
-🐍 [**Python Engineering Lab**](https://github.com/ajitagupta/python-engineering-lab/)
-Backend engineering fundational patterns built around one evolving workouts tracker REST API.
+🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)
+Backend engineering fundational patterns built around one evolving workouts tracker REST API
 
 ## 💻 Tech Ecosystem
 
