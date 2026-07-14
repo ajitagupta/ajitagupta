@@ -6,7 +6,7 @@
 
 I'm a software engineer based in Zurich, Switzerland.
 <br/><br/>
-I enjoy designing full-stack web applications, building practical software products, and creating educational content that helps beginners learn software engineering step by step.
+I enjoy building enterprise and full-stack web applications, developing practical software products, and creating educational content that helps beginners learn software engineering step by step.
 <br/><br/>
 Outside my professional work, I maintain DerKleineProgrammierer, where I publish structured programming courses in German for beginners, and a Medium profile, where I regularly publish technology deep-dives.
 
@@ -24,17 +24,17 @@ Modern React platform for volunteer coordination [**Web Platform**]
 📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
 Interactive analytics dashboard built with Python and Streamlit [**Analytics Dashboard**]
 
-## 🧪 Engineering Labs
+## 🧪 Engineering Curriculum
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)
-Backend engineering fundational patterns built around one evolving workouts tracker REST API
+A hands-on backend engineering curriculum built around one evolving workout tracker REST API
 
 ## 💻 Tech Ecosystem
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - **Backend**: Python, Django, Flask, C#, Java, Spring Boot
-- **Data & Databases**: PostgreSQL, MySQL, Pandas, Data Visualization
-- **Cloud & DevOps**: Git, Linux, Docker, Azure
+- **Data**: SQLite, MySQL, Pandas
+- **Engineering**: Git, Docker, Linux, Testing, CI/CD
 
 Open to: technical writing collaborations, speaking at Swiss tech meetups, mentoring junior devs! 🚀
 <br><br>
