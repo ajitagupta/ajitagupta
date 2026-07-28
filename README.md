@@ -35,7 +35,7 @@ Building backend engineering fundamentals through one evolving workout tracker R
 - **Backend**: Python, Django, Flask, C#, Java, Spring Boot
 - **Data**: SQLite, MySQL, Pandas
 - **Engineering**: Git, Docker, Linux, Testing, CI/CD
-- **Cloud & Automation**: Azure, Playwright, PyTorch, Prompt Engineering
+- **AI & Automation**: Playwright, Azure, Prompt Engineering
 
 Open to: technical writing collaborations, speaking at Swiss tech meetups, mentoring junior devs! 🚀
 <br><br>
