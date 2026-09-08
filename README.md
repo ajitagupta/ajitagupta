@@ -29,6 +29,9 @@ Interactive analytics dashboard built with Python and Streamlit [**Analytics Das
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)
 Building backend engineering fundamentals through one evolving workout tracker REST API
 
+⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/)  
+Building frontend engineering fundamentals through focused React and TypeScript applications
+
 ## 💻 Tech Ecosystem
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
