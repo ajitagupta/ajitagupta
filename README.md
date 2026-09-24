@@ -34,7 +34,7 @@ Interactive analytics dashboard built with Python and Streamlit [**Analytics Das
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - **Backend**: Python, Django, Flask, C#, Java, Spring Boot
-- **Data**: SQLite, MySQL, Pandas
+- **Data**: SQL, SQLite, MySQL, Pandas
 - **Engineering & DevOps**: Azure, Git, Docker, Linux, Testing, CI/CD, Playwright
 - **AI & Automation**: AI-Assisted Development, Prompt Engineering
 
