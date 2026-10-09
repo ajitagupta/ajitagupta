@@ -10,7 +10,7 @@ I enjoy building enterprise and full-stack web applications, developing practica
 <br/><br/>
 Outside my professional work, I maintain DerKleineProgrammierer and TheModernSoftwareEngineer, where I publish structured programming courses for beginners, and a Medium profile, where I regularly publish technology deep-dives.
 <br/><br/>
-I use GitHub to explore new tools and experiment with new technologies. I've built a repertoire of projects to learn and build new skills.
+I use GitHub to explore new tools and experiment with new technologies. I've built an extensive repertoire of projects to learn and build new skills.
 
 ## 🌟 Flagship Projects
 
