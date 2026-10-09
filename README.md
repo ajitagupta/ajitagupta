@@ -9,6 +9,8 @@ I'm a software engineer based in Zurich, Switzerland.
 I enjoy building enterprise and full-stack web applications, developing practical software products, and creating educational content that helps beginners learn software engineering and AI step by step.
 <br/><br/>
 Outside my professional work, I maintain DerKleineProgrammierer and TheModernSoftwareEngineer, where I publish structured programming courses for beginners, and a Medium profile, where I regularly publish technology deep-dives.
+<br/><br/>
+I use GitHub to explore new tools and technologies by building projects and to learn and build new skills.
 
 ## 🌟 Flagship Projects
 
