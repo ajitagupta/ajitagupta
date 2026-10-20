@@ -17,6 +17,9 @@ I use GitHub to explore new tools and experiment with new technologies. I've bui
 🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
 
+🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality)  
+Reproducible Python analysis of German and Swiss open railway data, revealing an approximately 18-percentage-point punctuality gap across their busiest stations [**Data Analysis**]
+
 ⚡ [ElectriStay](https://github.com/ajitagupta/electristay)
 Startup helping travelers discover charging-enabled accommodation [**Startup Project**]
 
