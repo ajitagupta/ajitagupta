@@ -21,7 +21,7 @@ Coming soon!!!
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API [**Engineering Curriculum**]
 
-🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
+🚆 [DB vs SBB - Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
 
 🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) A collection of chatbot projects exploring conversational applications with spaCy [**NLP & Chatbots**]
 
@@ -29,7 +29,7 @@ Coming soon!!!
 
 ☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) Cloud-ready Django course application with database-backed assessment features [**Cloud Application**]
 
-🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/) Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
+🚗 [EVoyage - EV Trip Planner](https://evoyage-beige.vercel.app/) Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
 
 💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) A Django web application for recording and managing expenses [**Full-Stack Django**]
 
