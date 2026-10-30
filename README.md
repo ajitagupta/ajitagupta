@@ -17,14 +17,21 @@ Coming soon!!!
 
 ## 🌟 2026 Projects
 
-🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
-Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
-
-🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
+⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API [**Engineering Curriculum**]
 
-⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
+🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
+
+🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) A collection of chatbot projects exploring conversational applications with spaCy [**NLP & Chatbots**]
+
+😊 [Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector) Flask web application that analyzes text for anger, disgust, fear, joy, and sadness [**AI & NLP**]
+
+☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) Cloud-ready Django course application with database-backed assessment features [**Cloud Application**]
+
+🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/) Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
+
+💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) A Django web application for recording and managing expenses [**Full-Stack Django**]
 
 ## 💻 Tech Ecosystem
 
