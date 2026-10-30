@@ -15,23 +15,12 @@ I use GitHub to explore new tools and experiment with new technologies. I've bui
 ## 2027 Projects
 Coming soon!!!
 
-## 🌟 Flagship Projects
+## 🌟 2026 Projects
 
 🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
 Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
 
 🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
-
-⚡ [ElectriStay](https://github.com/ajitagupta/electristay)
-Startup helping travelers discover charging-enabled accommodation [**Startup Project**]
-
-🤝 [Volunteer Management System](https://github.com/ajitagupta/react-volunteer-management-system)
-Modern React platform for volunteer coordination [**Web Platform**]
-
-📊 [Cybersecurity Dashboard](https://github.com/ajitagupta/streamlit-cybersecurity-dashboard)
-Interactive analytics dashboard built with Python and Streamlit [**Analytics Dashboard**]
-
-## 🧪 Engineering Curriculum
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API
 
