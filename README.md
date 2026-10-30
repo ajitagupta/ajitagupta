@@ -12,6 +12,9 @@ Outside my professional work, I maintain DerKleineProgrammierer and TheModernSof
 <br/><br/>
 I use GitHub to explore new tools and experiment with new technologies. I've built an extensive repertoire of projects to learn and build new skills.
 
+## 2027 Projects
+Coming soon!!!
+
 ## 🌟 Flagship Projects
 
 🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/)
