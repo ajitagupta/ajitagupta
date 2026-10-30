@@ -22,9 +22,9 @@ Intelligent travel planning platform for electric vehicle drivers [**Full-Stack 
 
 🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
 
-🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API
+🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API [**Engineering Curriculum**]
 
-⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications
+⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
 
 ## 💻 Tech Ecosystem
 
