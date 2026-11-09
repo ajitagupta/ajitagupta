@@ -22,7 +22,7 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 Note: Both labs build the same workout-tracking app: the Python lab develops its Flask API, and the frontend lab builds its React and TypeScript interface.
 
-🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) - Reproducible analysis of German and Swiss railway data [**Data Analysis**]
+🚆 [DB vs SBB - Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) - Reproducible analysis of German and Swiss railway data [**Data Analysis**]
 
 🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) - NLP chatbot experiments for school and medical-clinic scenarios [**NLP Experiment**]
 
