@@ -14,6 +14,8 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 ## 🌟 2026 Projects
 
+**Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
+
 ⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API [**Engineering Curriculum**]
