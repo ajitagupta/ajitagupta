@@ -30,7 +30,7 @@ Note: Both labs build the same workout-tracking app: the Python lab develops its
 
 ☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) - A Django course app with database-backed assessments [**Django & Cloud**]
 
-🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/) - An EV travel planner combining routes, charging stops, and lodging [**Full-Stack App**]
+🚗 [EVoyage - EV Trip Planner](https://evoyage-beige.vercel.app/) - An EV travel planner combining routes, charging stops, and lodging [**Full-Stack App**]
 
 💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) - A Django app for recording and reviewing expenses [**Django App**]
 
