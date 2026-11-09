@@ -33,6 +33,7 @@ Coming soon!!!
 
 💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) A Django web application for recording and managing expenses [**Full-Stack Django**]
 
+<!--
 ## 💻 Tech Ecosystem
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Bootstrap
@@ -47,7 +48,7 @@ Open to: technical writing collaborations, speaking at Swiss tech meetups, mento
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajita-gupta)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DerKleineProgrammierer)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/127390303-ajita-gupta)
-
+-->
 <!--
 **ajitagupta/ajitagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
