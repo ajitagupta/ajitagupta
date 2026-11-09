@@ -12,9 +12,6 @@ Outside my professional work, I maintain DerKleineProgrammierer and TheModernSof
 <br/><br/>
 I use GitHub to explore new tools and experiment with new technologies. I've built an extensive repertoire of projects to learn and build new skills.
 
-## 2027 Projects
-Coming soon!!!
-
 ## 🌟 2026 Projects
 
 ⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
