@@ -16,11 +16,11 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 **Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
 
-Both labs build the same workout-tracking app: the Python lab develops its Flask API, and the frontend lab builds its React and TypeScript interface.
-
 ⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) - React and TypeScript UI patterns practised through a workout-tracker app [**Frontend Lab**]
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) - A ten-stage Flask API covering testing, persistence, imports, scheduling, and parsing [**Backend Lab**]
+
+Note: Both labs build the same workout-tracking app: the Python lab develops its Flask API, and the frontend lab builds its React and TypeScript interface.
 
 🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) - Reproducible analysis of German and Swiss railway data [**Data Analysis**]
 
