@@ -16,21 +16,21 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 **Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
 
-⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) Building frontend engineering fundamentals through focused React and TypeScript applications [**Engineering Curriculum**]
+⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) — React and TypeScript UI patterns practised through a workout-tracker app [**Frontend Lab**]
 
-🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) Building backend engineering fundamentals through one evolving workout tracker REST API [**Engineering Curriculum**]
+🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) — A ten-stage Flask API covering testing, persistence, imports, scheduling, and parsing [**Backend Lab**]
 
-🚆 [DB vs SBB - Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) Reproducible Python analysis of German and Swiss open railway data [**Data Analysis**]
+🚆 [DB vs SBB — Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) — Reproducible analysis of German and Swiss railway data [**Data Analysis**]
 
-🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) A collection of chatbot projects exploring conversational applications with spaCy [**NLP & Chatbots**]
+🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) — NLP chatbot experiments for school and medical-clinic scenarios [**NLP Experiment**]
 
-😊 [Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector) Flask web application that analyzes text for anger, disgust, fear, joy, and sadness [**AI & NLP**]
+😊 [Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector) — A Flask app that detects five emotions in text [**AI & NLP**]
 
-☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) Cloud-ready Django course application with database-backed assessment features [**Cloud Application**]
+☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) — A Django course app with database-backed assessments [**Django & Cloud**]
 
-🚗 [EVoyage - EV Trip Planner](https://evoyage-beige.vercel.app/) Intelligent travel planning platform for electric vehicle drivers [**Full-Stack SaaS**]
+🚗 [EVoyage — EV Trip Planner](https://evoyage-beige.vercel.app/) — An EV travel planner combining routes, charging stops, and lodging [**Full-Stack App**]
 
-💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) A Django web application for recording and managing expenses [**Full-Stack Django**]
+💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) — A Django app for recording and reviewing expenses [**Django App**]
 
 <!--
 ## 💻 Tech Ecosystem
