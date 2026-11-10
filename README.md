@@ -20,7 +20,7 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) - A ten-stage Flask API covering testing, persistence, imports, scheduling, and parsing [**Backend Lab**]
 
-Note: Both labs build the same workout-tracking app: the Python lab develops its Flask API, and the frontend lab builds its React and TypeScript interface.
+Note: Both labs build the same workout-tracking app.
 
 🚆 [DB vs SBB - Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) - Reproducible analysis of German and Swiss railway data [**Data Analysis**]
 
