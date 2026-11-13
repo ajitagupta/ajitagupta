@@ -16,7 +16,7 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 
 **Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
 
-🔗 [Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab) - The frontend and backend labs joined into one deployed workout tracker: React + TypeScript, Flask, PostgreSQL, Docker · [live demo](https://workout-tracker-ajita.vercel.app) [**Full-Stack Lab**]
+🔗 [Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab) - The frontend and backend labs joined into one deployed workout tracker: React + TypeScript, Flask, PostgreSQL, Docker [**Full-Stack Lab**]
 
 ⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) - React and TypeScript UI patterns practised through a workout-tracker app [**Frontend Lab**]
 
