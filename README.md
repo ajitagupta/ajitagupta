@@ -15,7 +15,7 @@ I use GitHub as a hands-on learning space: exploring new tools, experimenting wi
 <p align="center">
   <a href="https://ajitagupta.com/">
     <img
-      src="https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com?style=for-the-badge&labelColor=17150F&color=C2410C"
+      src="https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com-C2410C?style=for-the-badge&amp;labelColor=17150F"
       alt="Go beyond the repos — ajitagupta.com"
     />
   </a>
