@@ -12,6 +12,15 @@ Outside my professional work, I maintain DerKleineProgrammierer and TheModernSof
 <br/><br/>
 I use GitHub as a hands-on learning space: exploring new tools, experimenting with technologies, and building projects to develop new skills.
 
+<p align="center">
+  <a href="https://ajitagupta.com/">
+    <img
+      src="https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com?style=for-the-badge&labelColor=17150F&color=C2410C"
+      alt="Go beyond the repos — ajitagupta.com"
+    />
+  </a>
+</p>
+
 ## 🌟 2026 Projects
 
 **Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
