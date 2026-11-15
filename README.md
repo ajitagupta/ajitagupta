@@ -2,7 +2,7 @@
 
 > *Build amazing things. Live an amazing life.*
 
-🚀 **Software Engineer | Enterprise Applications | Technical Educator**
+🚀 **Fullstack Software Engineer | Enterprise Applications | Technical Educator**
 
 I'm a software engineer based in Zurich, Switzerland.
 <br/><br/>
