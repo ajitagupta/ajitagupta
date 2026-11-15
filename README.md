@@ -12,14 +12,7 @@ Outside my professional work, I maintain DerKleineProgrammierer and TheModernSof
 <br/><br/>
 I use GitHub as a hands-on learning space: exploring new tools, experimenting with technologies, and building projects to develop new skills.
 
-<p align="center">
-  <a href="https://ajitagupta.com/">
-    <img
-      src="https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com-C2410C?style=for-the-badge&amp;labelColor=17150F"
-      alt="Go beyond the repos — ajitagupta.com"
-    />
-  </a>
-</p>
+[![Go beyond the repos](https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com-C2410C?style=for-the-badge&labelColor=17150F)](https://ajitagupta.com/)
 
 ## 🌟 2026 Projects
 
