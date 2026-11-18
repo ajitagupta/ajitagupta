@@ -12,20 +12,40 @@ Outside work, I teach programming and AI to beginners on **DerKleineProgrammiere
 
 ## ⭐ Featured
  
-**[Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab)** · [live app](https://workout-tracker-ajita.vercel.app)
+### 🏋️ [Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab)
+ 
+`React` `TypeScript` `Flask` `PostgreSQL` `Docker` · **[Live app →](https://workout-tracker-ajita.vercel.app)**
+ 
 A workout tracker built like a production system: React + TypeScript on Vercel, Flask + PostgreSQL on Render and Neon, Docker for local development. Alembic migrations, runtime-validated API responses, cancelled stale requests, indexes chosen from `EXPLAIN ANALYZE`, and every design decision documented.
  
-**[EVoyage: EV trip planner](https://evoyage-beige.vercel.app/)**
-Plans electric-car trips with routes, charging stops and lodging. Next.js, Supabase, Mapbox.
+### 🚗 [EVoyage: EV trip planner](https://evoyage-beige.vercel.app/)
  
-**[DB vs SBB: punctuality analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality)**
-A reproducible comparison of German and Swiss railway punctuality, built on open data.
+`Next.js` `Supabase` `Mapbox` · **[Live app →](https://evoyage-beige.vercel.app/)**
+ 
+Plans electric-car trips with routes, charging stops and lodging.
+ 
+### 🚆 [DB vs SBB: punctuality analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality)
+ 
+`Python` `pandas` `open data`
+ 
+A reproducible comparison of German and Swiss railway punctuality.
+ 
+---
  
 ## 🧪 Labs & experiments
  
-- **[Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)** and **[Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/)**: the backend and frontend halves that the Integration Lab joins
-- **[spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots)** and **[Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector)**: NLP experiments
-- **[Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)** and **[Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database)**: Django apps
+| Project | What it is |
+|---|---|
+| [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) | A ten-stage Flask API: testing, persistence, imports, scheduling, parsing |
+| [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) | React and TypeScript UI patterns, from components to end-to-end tests |
+| [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) | NLP chatbots for school and medical-clinic scenarios |
+| [Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector) | Detects five emotions in text |
+| [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) | Recording and reviewing expenses |
+| [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) | Django course app with database-backed assessments |
+ 
+---
+
+  
 ## 🛠️ Stack
  
 React · TypeScript · Next.js · Python · Flask · Django · C#/.NET · PostgreSQL · SQLAlchemy · Docker · pytest · Vitest · Playwright
