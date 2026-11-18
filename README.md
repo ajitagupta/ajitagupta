@@ -4,39 +4,31 @@
 
 🚀 **Fullstack Software Engineer | Enterprise and Industrial Applications | Technical Educator**
 
-I'm a software engineer based in Zurich, Switzerland.
-<br/><br/>
-I enjoy building enterprise and full-stack web applications, developing practical software products, and creating educational content that helps beginners learn software engineering and AI step by step.
-<br/><br/>
-Outside my professional work, I maintain DerKleineProgrammierer and TheModernSoftwareEngineer, where I publish structured programming courses for beginners, and a Medium profile, where I regularly publish technology deep-dives.
-<br/><br/>
-I use GitHub as a hands-on learning space: exploring new tools, experimenting with technologies, and building projects to develop new skills.
+At cross-ING AG I build full-stack web applications and system integrations: React and TypeScript frontends, Python and C#/.NET backends, integrations with ERP systems such as ABACUS, and Playwright-based automation.
+ 
+Outside work, I teach programming and AI to beginners on **DerKleineProgrammierer** and **TheModernSoftwareEngineer**, and write technical deep-dives on Medium.
 
 [![Go beyond the repos](https://img.shields.io/badge/Go%20beyond%20the%20repos-ajitagupta.com-C2410C?style=for-the-badge&labelColor=17150F)](https://ajitagupta.com/)
 
-## 🌟 2026 Projects
-
-**Learning focus:** In 2026, I set out to strengthen my backend and frontend skills, bring them together in full-stack applications, and experiment with data analysis, NLP, and cloud development. The projects below show that learning in practice.
-
-🔗 [Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab) - The frontend and backend labs joined into one deployed workout tracker [**Full-Stack Lab**]
-
-⚛️ [Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/) - React and TypeScript UI patterns practised through a workout-tracker app [**Frontend Lab**]
-
-🐍 [Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/) - A ten-stage Flask API covering testing, persistence, imports, scheduling, and parsing [**Backend Lab**]
-
-Note: Both labs build the same workout-tracking app; the Full-Stack Integration Lab connects them.
-
-🚆 [DB vs SBB - Punctuality Analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality) - Reproducible analysis of German and Swiss railway data [**Data Analysis**]
-
-🤖 [spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots) - NLP chatbot experiments for school and medical-clinic scenarios [**NLP Experiment**]
-
-😊 [Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector) - A Flask app that detects five emotions in text [**AI & NLP**]
-
-☁️ [Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database) - A Django course app with database-backed assessments [**Django & Cloud**]
-
-🚗 [EVoyage - EV Trip Planner](https://evoyage-beige.vercel.app/) - An EV travel planner combining routes, charging stops, and lodging [**Full-Stack App**]
-
-💰 [Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker) - A Django app for recording and reviewing expenses [**Django App**]
+## ⭐ Featured
+ 
+**[Full-Stack Integration Lab](https://github.com/ajitagupta/fullstack-integration-lab)** · [live app](https://workout-tracker-ajita.vercel.app)
+A workout tracker built like a production system: React + TypeScript on Vercel, Flask + PostgreSQL on Render and Neon, Docker for local development. Alembic migrations, runtime-validated API responses, cancelled stale requests, indexes chosen from `EXPLAIN ANALYZE`, and every design decision documented.
+ 
+**[EVoyage: EV trip planner](https://evoyage-beige.vercel.app/)**
+Plans electric-car trips with routes, charging stops and lodging. Next.js, Supabase, Mapbox.
+ 
+**[DB vs SBB: punctuality analysis](https://github.com/ajitagupta/db-vs-sbb-punctuality)**
+A reproducible comparison of German and Swiss railway punctuality, built on open data.
+ 
+## 🧪 Labs & experiments
+ 
+- **[Python Engineering Lab](https://github.com/ajitagupta/python-engineering-lab/)** and **[Frontend Engineering Lab](https://github.com/ajitagupta/frontend-engineering-lab/)**: the backend and frontend halves that the Integration Lab joins
+- **[spaCy Chatbots](https://github.com/ajitagupta/spacy-chatbots)** and **[Flask Emotion Detector](https://github.com/ajitagupta/flask-emotion-detector)**: NLP experiments
+- **[Django Expense Tracker](https://github.com/ajitagupta/django-expense-tracker)** and **[Online Course Assessment App](https://github.com/ajitagupta/tfjzl-final-cloud-app-with-database)**: Django apps
+## 🛠️ Stack
+ 
+React · TypeScript · Next.js · Python · Flask · Django · C#/.NET · PostgreSQL · SQLAlchemy · Docker · pytest · Vitest · Playwright
 
 <!--
 ## 💻 Tech Ecosystem
