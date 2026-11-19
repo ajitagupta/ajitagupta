@@ -16,7 +16,7 @@ Outside work, I teach programming and AI to beginners on **DerKleineProgrammiere
  
 `React` `TypeScript` `Flask` `PostgreSQL` `Docker` · **[Live app →](https://workout-tracker-ajita.vercel.app)**
  
-A workout tracker built like a production system: React + TypeScript on Vercel, Flask + PostgreSQL on Render and Neon, Docker for local development. Alembic migrations, runtime-validated API responses, cancelled stale requests, indexes chosen from `EXPLAIN ANALYZE`, and every design decision documented.
+A workout tracker with a React frontend and a Flask backend, deployed online. It covers the everyday parts of a real app: forms, search, file imports and charts, along with handling slow connections and errors gracefully. Each step is documented.
  
 ### 🚗 [EVoyage: EV trip planner](https://evoyage-beige.vercel.app/)
  
